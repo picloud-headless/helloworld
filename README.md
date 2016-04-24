@@ -1,2 +1,2 @@
 # helloworld
-A sample app in Python to setup CI/CD
+A sample app in Python 
